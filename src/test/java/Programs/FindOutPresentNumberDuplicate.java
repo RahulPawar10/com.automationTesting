@@ -1,6 +1,6 @@
 package Programs;
 
-public class FindOutDuplicateNumber {
+public class FindOutPresentNumberDuplicate {
 
     public static void main(String[] args) {
         int[] num = {1, 2, 5, 4, 3, 9, 8, 7, 6, 4, 5, 3, 2, 1};
